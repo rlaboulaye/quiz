@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+
+.right {
+  position: absolute;
+  right: 10px;
+}
+
+.left {
+  text-align: left;
+}
+
+#quizContainer {
+  background-color: #408AD2;
+  min-height : 20em;
+}
+
+#nextButton {
+  position: relative;
+  float: right;
+}
